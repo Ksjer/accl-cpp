@@ -1,3 +1,6 @@
+Meson build instructions
+========================
+
 cd ch3
 meson init -l cpp
 
