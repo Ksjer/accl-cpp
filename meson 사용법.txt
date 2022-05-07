@@ -1,0 +1,8 @@
+cd ch3
+meson init -l cpp
+
+meson.build 파일을 상황에 맞게 수정할 것
+
+meson setup builddir
+meson compile -C builddir
+builddir/avg
