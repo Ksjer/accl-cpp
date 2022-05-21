@@ -6,4 +6,7 @@ project('ch3', 'cpp',
 executable('avg', 'avg.cpp',
   install : true)
 
+executable('med', 'med.cpp',
+  install : true)
+
 # test('basic', exe)
